@@ -1,7 +1,7 @@
 <h1>Hey!I'm Xema!</h1>
 
 
-<i class="fas fa-user"></i> &nbsp;<h2>About Me</h2>
+&nbsp;<h2>About Me</h2>
 
 
 <p style="font-weight:bold;">Always learning new technologies</p>
