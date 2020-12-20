@@ -31,12 +31,19 @@ Frontend
 Others
 
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-![Docker](https://img.shields.io/badge/-Docker-Compose-333333?style=flat&logo=docker-compose)
+![Docker Compose](https://img.shields.io/badge/-Docker-Compose-333333?style=flat&logo=docker-compose)
 
 Version Control
 
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+
+Plataforms
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+![Netbeans](https://img.shields.io/badge/-Netbeans-333333?style=flat&logo=netbeans&logoColor=2C2255)
+![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-333333?style=flat&logo=sublime-text&logoColor=2C2255)
 
 Photo edit
 
@@ -44,7 +51,7 @@ Photo edit
 
 Video Edit
 
-![Vegas](https://img.shields.io/badge/-vegas-333333?style=flat&logo=vegas)
+![Sony Vegas](https://img.shields.io/badge/-vegas-333333?style=flat&logo=vegas)
 
 
 ![j-maestre's github stats](https://github-readme-stats.vercel.app/api?username=j-maestre&theme=gruvbox&show_icons=true)
@@ -52,9 +59,9 @@ Video Edit
 
 Social Media
 
-<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/> 
-<img src="https://img.shields.io/badge/<xema.maestre>%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
-<img src="https://img.shields.io/badge/gmail%20-%230077B5.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
-Gmail
+<img src="https://img.shields.io/badge/Xema Maestre Quiles%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/> 
+<img src="https://img.shields.io/badge/xema.maestre%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/jmqmaestre@gmail.com%20-%230077B5.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
+
 
 
