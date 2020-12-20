@@ -31,7 +31,7 @@
 <h3>Others</h3>
 
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-![Docker Compose](https://img.shields.io/badge/-Docker-Compose-333333?style=flat&logo=docker)
+![Docker Compose](https://img.shields.io/badge/-Docker%20Compose-333333?style=flat&logo=sublime-&logoColor=2C2255)
 
 <h3>Version Control</h3>
 
