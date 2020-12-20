@@ -12,7 +12,7 @@
 <h3>Backend</h3>
 
 ![Expressjs](https://img.shields.io/badge/-ExpressJS-333333?style=flat)
-![PHPOO](  https://img.shields.io/badge/-PHP%20OOP-333333?style=flat&logo=php)
+![PHPOO](  https://img.shields.io/badge/-PHP%20OO-333333?style=flat&logo=php)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 ![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=go)
