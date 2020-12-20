@@ -31,7 +31,7 @@
 <p>Others</p>
 
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-![Docker Compose](https://img.shields.io/badge/-Docker-Compose-333333?style=flat&logo=docker)
+![Docker](https://img.shields.io/badge/-Docker-Compose-333333?style=flat&logo=docker)
 
 <p>Version Control</p>
 
@@ -51,7 +51,7 @@
 
 <p>Video Edit</p>
 
-![Sony Vegas](https://img.shields.io/badge/-Sony-Vegas-333333?style=flat&logo=vegas)
+![Vegas](https://img.shields.io/badge/-Sony-Vegas-333333?style=flat&logo=vegas)
 
 
 ![j-maestre's github stats](https://github-readme-stats.vercel.app/api?username=j-maestre&theme=gruvbox&show_icons=true)
