@@ -9,7 +9,8 @@
 
 <h2>Skills</h2>
 
-BAckend:
+Backend
+
 ![Expressjs](https://img.shields.io/badge/-ExpressJS-333333?style=flat)
 ![PHPOO](  https://img.shields.io/badge/-PHP%20OOP-333333?style=flat&logo=php)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
@@ -28,18 +29,22 @@ Frontend
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 
 Others
+
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-![Docker](https://img.shields.io/badge/-Docker-compose-333333?style=flat&logo=docker-compose)
+![Docker](https://img.shields.io/badge/-Docker-Compose-333333?style=flat&logo=docker-compose)
 
 Control Version
+
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
 Photo edit
+
 ![Gimp](https://img.shields.io/badge/-Gimp-333333?style=flat&logo=gimp)
 
 Video Edit
-![Sony Vegas](https://img.shields.io/badge/-sony-vegas-333333?style=flat&logo=sony-vegas)
+
+![Vegas](https://img.shields.io/badge/-sony-vegas-333333?style=flat&logo=sony-vegas)
 
 
 ![j-maestre's github stats](https://github-readme-stats.vercel.app/api?username=j-maestre&theme=gruvbox&show_icons=true)
