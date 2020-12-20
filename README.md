@@ -28,18 +28,18 @@ Frontend
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 
 Others
-
-Docker, Docker-Compose
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![Docker](https://img.shields.io/badge/-Docker-compose-333333?style=flat&logo=docker-compose)
 
 Control Version
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
 Photo edit
- ![Gimp](https://img.shields.io/badge/-Gimp-333333?style=flat&logo=gimp)
+![Gimp](https://img.shields.io/badge/-Gimp-333333?style=flat&logo=gimp)
 
 Video Edit
- Sony Vegas pro
+![Sony Vegas](https://img.shields.io/badge/-sony-vegas-333333?style=flat&logo=sony-vegas)
 
 
 ![j-maestre's github stats](https://github-readme-stats.vercel.app/api?username=j-maestre&theme=gruvbox&show_icons=true)
