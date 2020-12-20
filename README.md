@@ -15,7 +15,7 @@ Backend
 ![PHPOO](  https://img.shields.io/badge/-PHP%20OOP-333333?style=flat&logo=php)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=mongodb)
+![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=go)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 
 Frontend
@@ -33,7 +33,7 @@ Others
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![Docker](https://img.shields.io/badge/-Docker-Compose-333333?style=flat&logo=docker-compose)
 
-Control Version
+Version Control
 
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
@@ -44,7 +44,7 @@ Photo edit
 
 Video Edit
 
-![Vegas](https://img.shields.io/badge/-sony-vegas-333333?style=flat&logo=sony-vegas)
+![Vegas](https://img.shields.io/badge/-vegas-333333?style=flat&logo=vegas)
 
 
 ![j-maestre's github stats](https://github-readme-stats.vercel.app/api?username=j-maestre&theme=gruvbox&show_icons=true)
@@ -52,6 +52,9 @@ Video Edit
 
 Social Media
 
-Linkedin   Intagram    Gmail
+<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/> 
+<img src="https://img.shields.io/badge/<xema.maestre>%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/gmail%20-%230077B5.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
+Gmail
 
 
