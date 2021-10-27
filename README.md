@@ -53,12 +53,12 @@
 
 ![Sony Vegas](https://img.shields.io/badge/-Sony%20Vegas-333333?style=flat&logo=sublime-&logoColor=2C2255)
 
-![j-maestre's GitHub stats](https://github-readme-stats.vercel.app/api?username=j-maestre&show_icons=true&theme=radical)
+![j-maestre's GitHub stats](https://github-readme-stats.vercel.app/api?username=j-maestre&show_icons=true&theme=gruvbox)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j-maestre&layout=compact&theme=gruvbox&show_icons=true)](https://github.com/j-maestre/github-readme-stats)
 
 
-![j-maestre's github stats](https://github-readme-stats.vercel.app/api?username=j-maestre&theme=gruvbox&show_icons=true)
-![j-maestre's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=j-maestre&theme=gruvbox&show_icons=true)
+//![j-maestre's github stats](https://github-readme-stats.vercel.app/api?username=j-maestre&theme=gruvbox&show_icons=true)
+//![j-maestre's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=j-maestre&theme=gruvbox&show_icons=true)
 
 <h3>Social Media</h3>
 
