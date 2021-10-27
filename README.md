@@ -57,9 +57,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j-maestre&layout=compact&theme=gruvbox&show_icons=true)](https://github.com/j-maestre/github-readme-stats)
 
 
-//![j-maestre's github stats](https://github-readme-stats.vercel.app/api?username=j-maestre&theme=gruvbox&show_icons=true)
-//![j-maestre's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=j-maestre&theme=gruvbox&show_icons=true)
-
 <h3>Social Media</h3>
 
 <img src="https://img.shields.io/badge/Xema Maestre Quiles%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/> 
