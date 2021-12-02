@@ -28,7 +28,7 @@
 ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 
-<h3>Others</h3>
+<h3>Others</h3> 
 
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![Docker Compose](https://img.shields.io/badge/-Docker%20Compose-333333?style=flat&logo=sublime-&logoColor=2C2255)
