@@ -6,7 +6,7 @@
 
 - Always learning new technologies
 - Advanced technician in Web Application Development at IES L'Estació Ontinyent.
-- Currently studying VideoGame programming at ESAT
+- Currently studying VideoGame programming at <a href="https://www.esat.es/">ESAT</a>
 
 <h2>Skills</h2>
 
