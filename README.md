@@ -12,7 +12,7 @@
 
 <h3>Low Level</h3>
 
-![C++](https://img.shields.io/badge/C++-Solutions-blue.svg?style=flat&logo=c%2B%2B)
+![C++](https://img.shields.io/badge/-c++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge)
 
 <h3>Backend</h3>
 
