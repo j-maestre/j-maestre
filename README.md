@@ -5,10 +5,13 @@
 
 
 - Always learning new technologies
-- Currently studying Web Application Development at IES L'Estació Ontinyent.
+- Advanced technician in Web Application Development at IES L'Estació Ontinyent.
+- Currently studying VideoGame programming at ESAT
 
 <h2>Skills</h2>
 
+<h3>Low Level</h3>
+![C++](https://img.shields.io/badge/-C++-333333?style=flat)
 <h3>Backend</h3>
 
 ![Expressjs](https://img.shields.io/badge/-ExpressJS-333333?style=flat)
