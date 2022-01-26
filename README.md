@@ -11,7 +11,7 @@
 <h2>Skills</h2>
 
 <h3>Low Level</h3>
-![c++](https://img.shields.io/badge/C++-Solutions-blue.svg?style=flat&logo=c++)
+![C++](https://img.shields.io/badge/-c++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge)
 <h3>Backend</h3>
 
 ![Expressjs](https://img.shields.io/badge/-ExpressJS-333333?style=flat)
