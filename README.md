@@ -13,9 +13,9 @@
 <h3>Low Level</h3>
 
 ![ARM](https://img.shields.io/badge/ARM-Assembler-blue)
-![C](https://img.shields.io/badge/-C-blue)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-c++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge)
-![C#](https://img.shields.io/badge/-C%23-brightgreen)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 
 <h3>Engines</h3>
