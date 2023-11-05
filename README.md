@@ -56,6 +56,8 @@
 <h3>Plataforms</h3>
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio&logoColor=5C2D91)
+![JetBrains Rider](https://img.shields.io/badge/-JetBrains%20Rider-333333?style=flat&logo=jetbrains&logoColor=000000)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 ![Netbeans](https://img.shields.io/badge/-Netbeans-333333?style=flat&logo=netbeans&logoColor=2C2255)
 ![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-333333?style=flat&logo=sublime-&logoColor=2C2255)
