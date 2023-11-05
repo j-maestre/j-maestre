@@ -15,8 +15,10 @@
 ![ARM](https://img.shields.io/badge/ARM-Assembler-blue)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-c++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
+<h3> High Level</h3>
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
 
 <h3>Engines</h3>
 
@@ -46,6 +48,7 @@
 
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![Docker Compose](https://img.shields.io/badge/-Docker%20Compose-333333?style=flat&logo=sublime-&logoColor=2C2255)
+![Premake](https://img.shields.io/badge/Premake-%23000000.svg?style=for-the-badge&logo=premake)
 
 <h3>Version Control</h3>
 
