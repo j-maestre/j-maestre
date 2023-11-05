@@ -84,7 +84,7 @@
 <h3>Social Media</h3>
 
 <img src="https://img.shields.io/badge/Xema Maestre Quiles%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/> 
-<img src="https://img.shields.io/badge/xema.maestre%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
+<a href="https://www.instagram.com/xema.maestre/>"<img src="https://img.shields.io/badge/xema.maestre%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/jmqmaestre@gmail.com%20-%230077B5.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
 
 
