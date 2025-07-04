@@ -15,6 +15,8 @@
 ![ARM](https://img.shields.io/badge/ARM-Assembler-blue)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-c++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge)
+![DirectX11](https://img.shields.io/badge/DirectX11-%23007ACC.svg?style=for-the-badge&logo=directx&logoColor=white)
+
 
 <h3> High Level</h3>
 
@@ -78,7 +80,7 @@
 ![j-maestre's GitHub stats](https://github-readme-stats.vercel.app/api?username=j-maestre&show_icons=true&theme=gruvbox)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j-maestre&layout=compact&theme=gruvbox&show_icons=true)](https://github.com/j-maestre/github-readme-stats)
 
-[Portfolio](https://maestrequi.neocities.org)
+[Portfolio](https://j-maestre.github.io/Portfolio/)
 
 
 <h3>Social Media</h3>
